@@ -1,0 +1,35 @@
+_repo: Selections-From-the-Works-of-John-Ruskin_15200
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+  editor:
+    agent_name: Tinker, Chauncey Brewster
+    birthdate: 1876
+    deathdate: 1963
+    gutenberg_agent_id: '31682'
+    url: http://www.gutenberg.org/2009/agents/31682
+description: Cover -- Contents.
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15200'
+  lccn: 08031496
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art'
+- !lcc 'PR'
+title: Selections From the Works of John Ruskin
+url: http://www.gutenberg.org/ebooks/15200
