@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '31682'
     url: http://www.gutenberg.org/2009/agents/31682
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15200#Selections-From-the-Works-of-John-Ruskin
 gutenberg_issued: '2005-02-28'
 gutenberg_type: Text
 identifiers:
